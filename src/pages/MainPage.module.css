@@ -1,0 +1,10 @@
+.heading {
+  font-size: 3.2rem;
+}
+.btn {
+  font-size: 1.2rem;
+}
+
+a:global(.active) {
+  background-color: #4f29faa1;
+}
